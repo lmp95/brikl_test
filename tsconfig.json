@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "rootDir": "./",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "outDir": "./build",
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "sourceMap": true,
+        "resolveJsonModule": true,
+    }
+}
